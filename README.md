@@ -1,4 +1,8 @@
 # 👨‍💻 Matheus Antunes Reis
+<p align="right">
+  <a href="./README.en.md">🇺🇸 English version</a>
+</p>
+
 
 🎯 **Desenvolvedor Web Júnior | Front-end & Back-end**  
 💼 Freelancer desde 2022  
